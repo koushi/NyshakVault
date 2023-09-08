@@ -1,1 +1,2 @@
-This is the first page about [[Ny'shak]]
+This is the first page about [[Ny'shak]] 
+
