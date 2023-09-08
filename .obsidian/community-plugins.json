@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "templater-obsidian",
+  "quickadd",
+  "obsidian-excalidraw-plugin",
+  "cmdr"
 ]
