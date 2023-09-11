@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Ny'shak.md",
+                "file": "Formatting Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 625.5
+    "width": 625.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +171,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5bb83e198fb09ed",
+  "active": "a99c594010aec55f",
   "lastOpenFiles": [
     "People/Ny'shak.md",
     "Formatting Notes.md",

@@ -79,4 +79,31 @@ Task list use `- [ ]`
 ## Horizontal bars
 
 For a horizontal bar use `--- *** or ___`
+
 ---
+
+## Footnotes
+
+Add footnotes `[^#] or [^word]`
+
+This is a simple footnote[^1].
+[^1]: FOOTNOTE
+
+## Comments
+
+Add comments by wrapping text with `%%`
+
+This is a %%hidden%% comment
+%% 
+You cannot see this
+%%
+
+# Advanced Syntax
+
+## Tables
+
+Tables are created using `| and - `  Pipe characters separate columns hyphens define column header
+| First name | Last name |
+| ---------- | --------- |
+| Alex       | Zupsic    |
+| Sakura     | Zupsic          |
