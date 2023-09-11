@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a99c594010aec55f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ny'shak.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "eeaadb2456de6507",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.4.10"
+              }
+            }
+          },
+          {
+            "id": "a1dc6aa7096b82ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ny'shak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ny'shak.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ny'shak.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,8 +180,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeaadb2456de6507",
+  "active": "a1dc6aa7096b82ce",
   "lastOpenFiles": [
+    "Formatting Notes.md",
+    "conflict-files-obsidian-git.md",
+    "People/Ny'shak.md",
+    "People/Kai'sa.md",
+    "People/Ix'aryz.md",
+    "People",
+    "Entities/Selune.md",
+    "Entities",
     "Ny'shak.md",
     "NyshakVault"
   ]
