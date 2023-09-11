@@ -50,8 +50,33 @@ Spaces in URLs need %20 or wrap the link in ( < > )
 
 ## External Images
 
-![Englebert](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+Add image with ! and link 
 
+![Englebert|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
+You can change the image dimensions, by adding `|640x480`
+Specifying only width will preserve aspect ratio
 
+## Lists
 
+Unsorted lists use `- * or +`
+- item one
+- item two
+
+Sorted list `1. 2. etc`
+1. Item 1
+2. Item 2
+	1. tab added for next level
+3. Item 3
+	* unsorted!!
+
+## Task lists
+
+Task list use `- [ ]`
+- [ ] Task one
+- [ ] Task two??
+
+## Horizontal bars
+
+For a horizontal bar use `--- *** or ___`
+---
