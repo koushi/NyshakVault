@@ -14,4 +14,24 @@ To create a heading, add up to six `#` symbols before your heading text. The n
 ~~strikethrough~~
 ==Highlight==
 **Bold text and _nested italics_  text**
-***bold 
+***bold and italics***
+
+## Quotes
+
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. 
+\- Doug Engelbart, 1961
+
+## Code
+
+Text inside `backticks` on a line will be formatted like code
+
+```
+Code block triple back ticks
+```
+
+```rust
+println!('Hello, World');
+let temp = moo;
+```
+
+## External Links
