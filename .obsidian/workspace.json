@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0e59ff365060f992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Ix'aryz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfdd089d8ea5aca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Ny'shak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba9ade4526565490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formatting Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,14 +136,25 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "ba9ade4526565490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formatting Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 625.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +172,10 @@
   },
   "active": "ba9ade4526565490",
   "lastOpenFiles": [
-    "People/Ix'aryz.md",
-    "Formatting Notes.md",
-    "People/Kai'sa.md",
     "People/Ny'shak.md",
+    "Formatting Notes.md",
+    "People/Ix'aryz.md",
+    "People/Kai'sa.md",
     "Entities/Selune.md",
     "Entities",
     "People",
