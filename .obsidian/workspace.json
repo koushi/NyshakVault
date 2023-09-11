@@ -20,8 +20,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "eeaadb2456de6507",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.10"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,6 +149,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "7f0b5a18e7dbc3ec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -161,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a99c594010aec55f",
+  "active": "eeaadb2456de6507",
   "lastOpenFiles": [
     "Ny'shak.md",
     "NyshakVault"
