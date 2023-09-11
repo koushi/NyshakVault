@@ -10,13 +10,15 @@
           {
             "id": "a99c594010aec55f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ny'shak.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
