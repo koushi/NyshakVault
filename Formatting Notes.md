@@ -35,3 +35,23 @@ let temp = moo;
 ```
 
 ## External Links
+
+To link a URL create inline link with ( [ ] ) then URL in ( ( ) )
+
+[Obsidian Help](https://help.obsidian.md)
+
+External link to files in other vaults using Obsidian URI
+
+[Kai'sa](obsidian://open?vault=NyshakVault&file=Kai'sa.md)
+
+Spaces in URLs need %20 or wrap the link in ( < > )
+
+[test](<obsidian://open?vault=NyshakVault&file=My Note.md>)
+
+## External Images
+
+![Englebert](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+
+
+
