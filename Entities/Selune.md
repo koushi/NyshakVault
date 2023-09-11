@@ -1,0 +1,10 @@
+In the time of ancient Netheril, when she was a greater goddess, she held the portfolios of the moon, moonlight, and stars; beauty and purity; love and marriage; navigation and navigators; tracking, wanderers, and seekers; diviners and dreams; good and neutral lycanthropes; and autumn. Hers was the moon's mysterious power, the heavenly force that governed the world's tides and a mother's reproductive cycles, caused lycanthropes to shift form, and drew one to the brink of madness, and back again. Her nature, appearance, and mood all changed in turn with the phases of the moon.
+
+Again like the cycles of the moon, Selûne had many and changing moods and natures. Her faithful, coming from many walks of life, viewed her in countless different ways, and she reflected this. Sometimes she was enthusiastic, vivacious, joyous, and majestic, given to action and dance. At other times, she was subdued, motherly, and almost poetic or tranquil and embracing. Then she was remote and weighed down by sadness at defeats and tragedies, even those that happened long, long ago.Finally, she could be aggressive and fierce, but cold, and with little mercy for her enemies. These shifting personalities made her versatile.
+
+“
+Let all on whom my light falls be welcome if they desire to be so. As the silver moon waxes and wanes, so too does all life. Trust in my radiance, and know that all love alive under my light shall know my blessing. Turn to the moon, and I will be your true guide.
+”
+— The words of Selune, which all novices were charged with
+
+She typically manifested as trails of dancing motes of light, similar to will-o'-wisps, commonly called "moondust" or "moon motes", which could shed moonlight where there should be none. In this form, she guided travelers lost in the night or journeying over hazardous terrain, and came to shine for her faithful when light was needed for a delicate action. These moon motes occasionally exuded a radiant, sparkling, pearly-hued liquid known as "drops fallen from the moon", which was the holy essence of Selûne and was prized by the faithful.
