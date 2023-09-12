@@ -103,7 +103,7 @@ You cannot see this
 ## Tables
 
 Tables are created using `| and - `  Pipe characters separate columns hyphens define column header
-| First name | Last name |
-| ---------- | --------- |
-| Alex       | Zupsic    |
-| Sakura     | Zupsic          |
+| Name | Color |
+| ---- | ----- |
+| Alex | black | 
+
