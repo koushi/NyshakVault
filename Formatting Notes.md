@@ -9,12 +9,12 @@ To create a heading, add up to six `#` symbols before your heading text. The n
 
 ## Styling Text
 
-**Bold**
-*italics*
-~~strikethrough~~
-==Highlight==
+**Bold** `**`
+*italics* `*`
+~~strikethrough~~ `~~`
+==Highlight== ``==
 **Bold text and _nested italics_  text**
-***bold and italics***
+***bold and italics*** `***`
 
 ## Quotes
 
@@ -103,7 +103,85 @@ You cannot see this
 ## Tables
 
 Tables are created using `| and - `  Pipe characters separate columns hyphens define column header
+<<<<<<< HEAD
 | Name | Color |
 | ---- | ----- |
 | Alex | black | 
+=======
+
+| Name | Color |
+| ---- | ----- |
+| Alex | Black |
+
+## Diagrams
+
+Adding diagrams or charts use ` ```mermaid  ``` `
+
+```mermaid
+sequenceDiagram
+	Alex->>+Hiromi: I love you!
+	Hiromi->>+Alex: I love you, too!
+	Hiromi->>-Alex: Chu~~
+	Alex->>-Hiromi: Chu~~~
+```
+```mermaid
+graph TD
+Dnd --> Fun
+```
+## Math
+
+[MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) and LaTeX notation available using ` $$ `
+
+$$
+\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc
+$$
+You can inline them as well by using ` $ `
+
+The area of a circle is $area=\pi r^2$
+
+## Tags
+
+Tags can be created using hashtags
+
+#Formatting
+#formatting/tags
+
+## Callouts
+
+Callouts are boxes to add info without breaking the flow of your notes. Add them to a block quote ` > [!typeIdent] `  [typeIdent](https://help.obsidian.md/Editing+and+formatting/Callouts#Supported%20types)
+
+> [!note]
+
+> [!abstract]
+
+> [!info]
+
+> [!todo]
+
+> [!Tip]
+
+> [!success]
+
+> [!question]
+
+> [!warning]
+
+> [!failure]
+
+> [!danger]
+
+> [!bug]
+
+> [!example]
+
+> [!quote]
+
+
+
+
+
+
+>>>>>>> origin/main
 
