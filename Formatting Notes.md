@@ -108,3 +108,21 @@ Tables are created using `| and - `  Pipe characters separate columns hyphens de
 | ---- | ----- |
 | Alex | Black |
 
+## Diagrams
+
+Adding diagrams or charts use ` ```mermaid  ``` `
+
+```mermaid
+sequenceDiagram
+	Alex->>+Hiromi: I love you!
+	Hiromi->>+Alex: I love you, too!
+	Hiromi->>-Alex: Chu~~
+	Alex->>-Hiromi: Chu~~~
+```
+```mermaid
+graph TD
+Dnd --> Fun
+```
+## Math
+
+[MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) and LaTeX notation available using ``
