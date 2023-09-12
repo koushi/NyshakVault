@@ -76,33 +76,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4b5c6db789cdf6f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d69dfc181b9da5b9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "b1f87457b69e9795",
             "type": "leaf",
             "state": {
@@ -111,24 +84,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "3d6335a9c9676ef6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          },
-          {
-            "id": "7509e78e798a044f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -142,31 +97,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e622589bbe945d7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "43e3be2259210ae6",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 625.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +120,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7509e78e798a044f",
+  "active": "f5bb83e198fb09ed",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Formatting Notes.md",
