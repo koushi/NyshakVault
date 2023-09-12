@@ -9,7 +9,7 @@ To create a heading, add up to six `#` symbols before your heading text. The n
 
 ## Styling Text
 
-**Bold**
+**Bold** `**`
 *italics*
 ~~strikethrough~~
 ==Highlight==
@@ -145,4 +145,37 @@ Tags can be created using hashtags
 
 ## Callouts
 
-Callouts are b
+Callouts are boxes to add info without breaking the flow of your notes. Add them to a block quote ` > [!typeIdent] `  [typeIdent](https://help.obsidian.md/Editing+and+formatting/Callouts#Supported%20types)
+
+> [!note]
+
+> [!abstract]
+
+> [!info]
+
+> [!todo]
+
+> [!Tip]
+
+> [!success]
+
+> [!question]
+
+> [!warning]
+
+> [!failure]
+
+> [!danger]
+
+> [!bug]
+
+> [!example]
+
+> [!quote]
+
+
+
+
+
+
+
