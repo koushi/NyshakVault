@@ -11,12 +11,8 @@
             "id": "4c982181f81c5acf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Ny'shak.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Ny'shak.md",
+                "file": "Formatting Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Ny'shak.md",
+                "file": "Formatting Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Ny'shak.md"
+                "file": "Formatting Notes.md"
               }
             }
           },
@@ -158,9 +154,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea0e517712b098f0",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -177,14 +181,15 @@
       "publish:Publish changes...": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "4c982181f81c5acf",
   "lastOpenFiles": [
+    "People/Ny'shak.md",
     "People/Kai'sa.md",
     "People/Ix'aryz.md",
-    "People/Ny'shak.md",
     "Formatting Notes.md",
     "Media",
     "Untitled.canvas",
