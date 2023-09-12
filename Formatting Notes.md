@@ -10,11 +10,11 @@ To create a heading, add up to six `#` symbols before your heading text. The n
 ## Styling Text
 
 **Bold** `**`
-*italics*
-~~strikethrough~~
-==Highlight==
+*italics* `*`
+~~strikethrough~~ `~~`
+==Highlight== ``==
 **Bold text and _nested italics_  text**
-***bold and italics***
+***bold and italics*** `***`
 
 ## Quotes
 

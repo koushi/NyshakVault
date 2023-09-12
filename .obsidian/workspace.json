@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formatting Notes.md",
+                "file": "People/Ny'shak.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatting Notes.md",
+                "file": "People/Ny'shak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatting Notes.md",
+                "file": "People/Ny'shak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatting Notes.md"
+                "file": "People/Ny'shak.md"
               }
             }
           },
@@ -182,13 +182,13 @@
   },
   "active": "4c982181f81c5acf",
   "lastOpenFiles": [
-    "Media",
-    "Untitled.canvas",
-    "Formatting Notes.md",
-    "conflict-files-obsidian-git.md",
-    "People/Ny'shak.md",
     "People/Kai'sa.md",
     "People/Ix'aryz.md",
+    "People/Ny'shak.md",
+    "Formatting Notes.md",
+    "Media",
+    "Untitled.canvas",
+    "conflict-files-obsidian-git.md",
     "People",
     "Entities/Selune.md",
     "Entities",
