@@ -125,4 +125,24 @@ Dnd --> Fun
 ```
 ## Math
 
-[MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) and LaTeX notation available using ``
+[MathJax](http://docs.mathjax.org/en/latest/basic/mathjax.html) and LaTeX notation available using ` $$ `
+
+$$
+\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc
+$$
+You can inline them as well by using ` $ `
+
+The area of a circle is $area=\pi r^2$
+
+## Tags
+
+Tags can be created using hashtags
+
+#Formatting
+#formatting/tags
+
+## Callouts
+
+Callouts are b
