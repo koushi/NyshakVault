@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "livePreview": true,
+  "livePreview": false,
   "newFileLocation": "root",
   "newFileFolderPath": "Media",
   "attachmentFolderPath": "Media"
