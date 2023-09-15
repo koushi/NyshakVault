@@ -1,11 +1,13 @@
 ---
-type: test
-location: 
-factions: 
-alignment: 
+type: 
+name: Ny'shak
+sex: 
 race: 
 height: 
-weight:
+weight: 
+alignment: 
+location: 
+factions:
 ---
 
-1`=this.type`
+
