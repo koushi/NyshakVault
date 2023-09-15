@@ -1,5 +1,5 @@
 ---
-type: 
+type: test
 location: 
 factions: 
 alignment: 
@@ -8,3 +8,4 @@ height:
 weight:
 ---
 
+1`=this.type`
