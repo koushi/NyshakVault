@@ -4,5 +4,6 @@
   "newFileLocation": "root",
   "newFileFolderPath": "Media",
   "attachmentFolderPath": "Media",
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "source"
 }

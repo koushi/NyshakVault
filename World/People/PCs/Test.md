@@ -1,6 +1,6 @@
 ---
 type: 
-name:
+name: Moo
 sex: 
 race: 
 height: 
@@ -10,20 +10,9 @@ location:
 factions:
 ---
 
-<% tp.file.title %>
-<% await tp.file.move("/World/People/PCs/" + tp.file.title) %>
+Untitled
 
 
-<%*
-const hasTitle = !tp.file.title.startsWith("Untitled");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter NPC Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
