@@ -4,11 +4,11 @@
       "id": "46074724-9b7c-4fb1-a98b-b2551a616bb7",
       "name": "Person",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "templates/person.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{value}}"
       },
       "folder": {
         "enabled": false,
