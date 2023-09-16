@@ -48,7 +48,6 @@ _%>
 # `=this.file.name`
 ## Profile
 
-<% tp.file.cursor() %>
 **<Add description here, extend it with AI Text Generator using Ctrl J>**
 
 > [!info] Statblock
@@ -58,9 +57,4 @@ _%>
 > columns: 1
 > ```
 
-```encounter-table
-name: Individual
-creatures:
- - 1: Commoner
-```
 

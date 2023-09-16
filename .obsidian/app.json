@@ -3,5 +3,6 @@
   "livePreview": false,
   "newFileLocation": "root",
   "newFileFolderPath": "Media",
-  "attachmentFolderPath": "Media"
+  "attachmentFolderPath": "Media",
+  "promptDelete": false
 }
