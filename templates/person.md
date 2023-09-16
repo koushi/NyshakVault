@@ -9,11 +9,6 @@ alignment:
 location: 
 factions:
 ---
-
-<% tp.file.title %>
-<% await tp.file.move("/World/People/PCs/" + tp.file.title) %>
-
-
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
 let title;
@@ -24,6 +19,9 @@ if (!hasTitle) {
     title = tp.file.title;
 }
 _%>
+
+<% tp.file.title %>
+<% await tp.file.move("/World/People/PCs/" + tp.file.title) %>
 
 > [!infobox]
 > # `=this.file.name`
