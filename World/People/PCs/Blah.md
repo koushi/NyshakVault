@@ -1,6 +1,6 @@
 ---
 type: 
-name: Moo
+name:
 sex: 
 race: 
 height: 
@@ -11,6 +11,8 @@ factions:
 ---
 
 Untitled
+
+
 
 > [!infobox]
 > # `=this.file.name`
