@@ -48,11 +48,11 @@ _%>
 
 # `=this.file.name`
 > [!column|clean no-title] 
->> [!example|c-gray]- Contents
+>> [!abstract|c-red ]- Contents
 >> 1. [[#Description]]
->> 	1. 1. [[#Appearance]]
+>> 	- [[#Appearance]]
 >> 	- [[#Personality]]
->> - [[#Biography]]
+>> 2. [[#Biography]]
 >> 	- [[#Background]]
 >> 	- [[#Campaign]]
 >
