@@ -1,23 +1,16 @@
 ---
-type: PC
-name: Ix
-sex: male
+type: 
+name: 
+sex: 
 connections: 
-race: Half-dragon
-alignment: True Neutral
-location: Netheril
-age: "37"
-class: Monk
-languages:
-  - Draconic
-  - Giant
-  - Netherese
-  - Dwarvish
-  - Common
-factions:
-  - SPL
-  - Eyes of the Evening
-subclass: Way of the Shadow
+race: 
+alignment: 
+location: 
+age: 
+class: 
+languages: 
+factions: 
+subclass:
 ---
 Ix
 
@@ -34,7 +27,7 @@ Ix
 > Sex | `=this.sex` |
 > Race | `=this.race` |
 > Age | `=this.age` |
-> Factions | `=this.factions` |
+> Languages | `=this.languages` |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|

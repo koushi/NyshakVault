@@ -31,20 +31,24 @@ _%>
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
-> Type |  Stat |
+>  |  |
 > ---|---|
-> Home | `=this.location` |
-> Group | `=this.faction` |
 > Sex | `=this.sex` |
 > Race | `=this.race` |
 > Age | `=this.age` |
-> Languages | `=this.factions` |
+> Languages | `=this.languages` |
+> Home | `=this.location` |
+> Group | `=this.factions` |
 > ###### Rules Info
-> Type |  Stat |
+>  |   |
 > ---|---|
 > Alignment | `=this.alignment` |
 > Class | `=this.class` |
 > Sub Class | `=this.subclass` |
+> ###### Stats
+> HP | AC | DC |
+> ---|---|---|
+> `=this.HP`|`-`
 
 # `=this.file.name`
 `=this.name` is a `=this.sex` `=this.race` `=this.subclass` `=this.class`. 
