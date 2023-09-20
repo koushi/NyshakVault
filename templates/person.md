@@ -47,11 +47,13 @@ _%>
 > Sub Class | `=this.subclass` |
 
 # `=this.file.name`
->[!column|flex 2]
->>[!example]
->>more info
->>and more
->>
+> [!column|clean no-title] 
+>> [!example|bg-c-black ]- Column 1 
+>> Use another callout for columns 
+>
+>> [!note|clean no-title] Column 2 
+
+
 
 ## Profile
 
