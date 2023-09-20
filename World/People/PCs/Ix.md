@@ -20,13 +20,13 @@ factions:
 subclass: Way of the Shadow
 HP: 48
 AC: 17
-DC: 15
+DC: 14
 str: 10
 dex: 18
-con: 12
-int: 
-wis: 
-cha:
+con: 13
+int: 12
+wis: 16
+cha: 8
 ---
 Ix
 
