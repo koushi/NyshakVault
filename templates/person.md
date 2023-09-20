@@ -48,14 +48,26 @@ _%>
 
 # `=this.file.name`
 > [!column|clean no-title] 
->> [!example|bg-c-black ]- Column 1 
->> Use another callout for columns 
+>> [!example|c-gray]- Contents
+>> 1. [[#Description]]
+>> 	1. 1. [[#Appearance]]
+>> 	- [[#Personality]]
+>> - [[#Biography]]
+>> 	- [[#Background]]
+>> 	- [[#Campaign]]
 >
 >> [!note|clean no-title] Column 2 
 
 
 
-## Profile
+## Description
+### Appearance
+### Personality
+## Biography
+### Background
+### Campaign
+## Relationships
+
 
 **<Add description here, extend it with AI Text Generator using Ctrl J>**
 
