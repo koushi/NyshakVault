@@ -10,7 +10,16 @@ age:
 class: 
 languages: 
 factions: 
-subclass:
+subclass: 
+HP: 
+AC: 
+DC: 
+str: 
+dex: 
+con: 
+int: 
+wis: 
+cha:
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
@@ -46,9 +55,14 @@ _%>
 > Class | `=this.class` |
 > Sub Class | `=this.subclass` |
 > ###### Stats
-> HP | AC | DC |
+>  | | |
 > ---|---|---|
-> `=this.HP`|`-`
+> HP | AC | DC |
+> `=this.HP` | `=this.AC` | `=this.DC` |
+> Str | Dex | Con |
+> `=this.str` | `=this.dex` | `=this.con` |
+> Int | Wis | Cha |
+> `=this.int` | `=this.wis` | `=this.cha`|
 
 # `=this.file.name`
 `=this.name` is a `=this.sex` `=this.race` `=this.subclass` `=this.class`. 

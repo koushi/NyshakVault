@@ -1,16 +1,32 @@
 ---
-type: 
-name: 
-sex: 
+type: PC
+name: Ix
+sex: Male
 connections: 
-race: 
-alignment: 
-location: 
-age: 
-class: 
-languages: 
-factions: 
-subclass:
+race: Half-dragon
+alignment: True Neutral
+location: Nethril
+age: "37"
+class: Monk
+languages:
+  - Draconic
+  - Giant
+  - Common
+  - Dwarvish
+  - Netherese
+factions:
+  - SPL
+  - Eyes of the Evening
+subclass: Way of the Shadow
+HP: 48
+AC: 17
+DC: 15
+str: 10
+dex: 18
+con: 12
+int: 
+wis: 
+cha:
 ---
 Ix
 
@@ -20,20 +36,29 @@ Ix
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
-> Type |  Stat |
+>  |  |
 > ---|---|
-> Home | `=this.location` |
-> Group | `=this.factions` |
 > Sex | `=this.sex` |
 > Race | `=this.race` |
 > Age | `=this.age` |
 > Languages | `=this.languages` |
+> Home | `=this.location` |
+> Group | `=this.factions` |
 > ###### Rules Info
-> Type |  Stat |
+>  |   |
 > ---|---|
 > Alignment | `=this.alignment` |
 > Class | `=this.class` |
 > Sub Class | `=this.subclass` |
+> ###### Stats
+>  | | |
+> ---|---|---|
+> HP | AC | DC |
+> `=this.HP` | `=this.AC` | `=this.DC` |
+> Str | Dex | Con |
+> `=this.str` | `=this.dex` | `=this.con` |
+> Int | Wis | Cha |
+> `=this.int` | `=this.wis` | `=this.cha`|
 
 # `=this.file.name`
 `=this.name` is a `=this.sex` `=this.race` `=this.subclass` `=this.class`. 
