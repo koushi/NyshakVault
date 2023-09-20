@@ -1,30 +1,26 @@
 ---
-type: 
-name: 
-sex: 
+type: PC
+name: Ix
+sex: male
 connections: 
-race: 
-alignment: 
-location: 
-age: 
-class: 
-languages: 
-factions: 
-subclass:
+race: Half-dragon
+alignment: True Neutral
+location: Netheril
+age: "37"
+class: Monk
+languages:
+  - Draconic
+  - Giant
+  - Netherese
+  - Dwarvish
+  - Common
+factions:
+  - SPL
+  - Eyes of the Evening
+subclass: Way of the Shadow
 ---
-<%*
-const hasTitle = !tp.file.title.startsWith("Untitled");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter NPC Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
+Ix
 
-<% tp.file.title %>
-<% await tp.file.move("/World/People/PCs/" + tp.file.title) %>
 
 > [!infobox]
 > # `=this.file.name`
@@ -34,11 +30,11 @@ _%>
 > Type |  Stat |
 > ---|---|
 > Home | `=this.location` |
-> Group | `=this.faction` |
+> Group | `=this.factions` |
 > Sex | `=this.sex` |
 > Race | `=this.race` |
 > Age | `=this.age` |
-> Languages | `=this.factions` |
+> Factions | `=this.factions` |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|

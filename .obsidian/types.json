@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Type": "text",
-    "factions": "text",
+    "factions": "multitext",
     "height": "number",
     "weight": "number",
     "languages": "multitext",
