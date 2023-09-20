@@ -47,6 +47,12 @@ _%>
 > Sub Class | `=this.subclass` |
 
 # `=this.file.name`
+>[!column|flex 2]
+>>[!example]
+>>more info
+>>and more
+>>
+
 ## Profile
 
 **<Add description here, extend it with AI Text Generator using Ctrl J>**
