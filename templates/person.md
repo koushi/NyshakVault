@@ -1,13 +1,12 @@
 ---
 type: 
-name:
+name: 
 sex: 
+factions: 
 race: 
-height: 
-weight: 
 alignment: 
 location: 
-factions:
+age:
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
