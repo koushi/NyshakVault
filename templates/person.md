@@ -2,11 +2,15 @@
 type: 
 name: 
 sex: 
-factions: 
+connections: 
 race: 
 alignment: 
 location: 
-age:
+age: 
+class: 
+languages: 
+factions: 
+subclass:
 ---
 <%*
 const hasTitle = !tp.file.title.startsWith("Untitled");
@@ -29,18 +33,18 @@ _%>
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
-> Sex | `=this.gender` |
+> Home | `=this.location` |
+> Group | `=this.faction` |
+> Sex | `=this.sex` |
 > Race | `=this.race` |
 > Age | `=this.age` |
-> Condition | Healthy |
+> Condition | `=this.factions` |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
 > Alignment | `=this.alignment` |
 > Class | `=this.class` |
-> Character Role | `=this.character-role` |
+> Sub Class | `=this.subclass` |
 
 # `=this.file.name`
 ## Profile

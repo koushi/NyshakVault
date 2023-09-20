@@ -4,8 +4,10 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Type": "text",
-    "factions": "multitext",
+    "factions": "text",
     "height": "number",
-    "weight": "number"
+    "weight": "number",
+    "languages": "multitext",
+    "connections": "multitext"
   }
 }
