@@ -75,9 +75,9 @@ cha: 8
 ## Description
 ### Appearance
 
-In the annals of mythical beings, _Ny'shak_ emerges as an awe-inspiring half-dragon, a creature that seizes attention with his imposing physical stature. Standing tall at a formidable 7 feet and weighing in at a robust 275 pounds, this enigmatic entity possesses a lithe and agile frame, concealing within him a reservoir of latent strength.
+_Ny'shak_ is an awe-inspiring half-dragon, a creature that seizes attention with his imposing physical stature. Standing tall at a formidable 7 feet and weighing in at a robust 275 pounds, this enigmatic entity possesses a lithe and agile frame, concealing within him a reservoir of latent strength.
 
-The defining allure of _Ny'shak_ lies in the intricate pattern of his scales—almost platinum in color. This resplendent silver hue captures and refracts light with an ethereal luminosity that sets him apart. Yet, it is the void-black outlining these scales that holds an otherworldly quality, a deep, abyssal black drawing inspiration from the color of the void itself. This chromatic display serves a dual purpose: an aesthetic spectacle and a visual marker of his mixed lineage, invoking an aura of cosmic mystery.
+The defining allure of _Ny'shak_ lies in the intricate pattern of his scales—almost platinum in color. This resplendent silver hue captures and refracts light with an ethereal luminosity that sets him apart. Yet, it is the void-black outlining these scales that holds an otherworldly quality, a deep, abyssal black drawing inspiration from the color of the void itself. 
 
 Running down _Ny'shak_'s tail are Godzilla-like spines, evoking a sense of ancient power. However, a closer inspection reveals a narrative etched in his form—a series of large, jagged scars on his back, remnants of a singular, cataclysmic event. These weathered scars silently narrate a history of unyielding resilience and sacrifice, adding a profound layer to his mystique.
 
@@ -86,6 +86,8 @@ In the throes of conflict, _Ny'shak_ undergoes a transformative display of physi
 _Ny'shak, the Silver Wyrm_, with his almost platinum silver scales and void-black outlines, stands as a living embodiment of draconic might—a captivating entity in the realms of fantasy and myth. This comprehensive description invites readers into a world where legends come to life, encapsulating the essence of this mythical being.
 
 ### Personality
+
+Ny'shak is a quiet, contemplative figure. While not known for his way with words or social customs, Ny'shak possesses wisdom beyond his years. He is fiercely loyal to those close to him, none more so than Kai'sa his soulmate and the goddess Selune. 
 ## Biography
 ### Background
 ### Campaign
