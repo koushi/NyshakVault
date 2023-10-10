@@ -87,7 +87,7 @@ _Ny'shak, the Silver Wyrm_, with his almost platinum silver scales and void-blac
 
 ### Personality
 
-Ny'shak is a quiet, contemplative figure. While not known for his way with words or social customs, Ny'shak possesses wisdom beyond his years. He is fiercely loyal to those close to him, none more so than Kai'sa his soulmate and his adoptive grandmother Oloma. Simmering beneath his quiet demeanor is a primal fury that once sparked is difficult to extinguish. 
+Ny'shak is a quiet, contemplative figure. While not known for his way with words or social customs, Ny'shak possesses wisdom beyond his years. He is fiercely loyal to those close to him, none more so than Kai'sa his soulmate and his adoptive grandmother Oloma. Simmering beneath his quiet demeanor is a primal fury that once sparked is difficult to extinguish. It resembles the panicked nature of cornered beast deperate to live. On the battlefield Ny'shak displays a cold calculating mind  
 
 ## Biography
 ### Background
