@@ -87,10 +87,14 @@ _Ny'shak, the Silver Wyrm_, with his almost platinum silver scales and void-blac
 
 ### Personality
 
-Ny'shak is a quiet, contemplative figure. While not known for his way with words or social customs, Ny'shak possesses wisdom beyond his years. He is fiercely loyal to those close to him, none more so than Kai'sa his soulmate and his adoptive grandmother Oloma. Simmering beneath his quiet demeanor is a primal fury that once sparked is difficult to extinguish. It resembles the panicked nature of cornered beast desperate to live. For much of his life Ny'shak was an introvert, rarely seeking companionship and social interactions. This changed over time with the help of Kai'sa and the other members of the Eyes. He still prefers the company of close aquaintences compared to large social gatherings but has known to enjoy sharing the limelight with Kai'sa. 
+##### A)
+Ny'shak is a reserved and contemplative individual, not particularly adept at social interactions, but his quiet exterior conceals a profound wisdom that belies his years. His loyalty is unwavering, especially towards Kai'sa, his soulmate, and his adoptive grandmother, Oloma. Despite his quiet demeanor, there's an underlying primal fury that, once ignited, is challenging to quell—reminiscent of a cornered beast fighting desperately for survival.
 
-On the battlefield Ny'shak displays a cold, calculating mind analyzing the ebb and flow of battle identifying threats and weaknesses.  
+In his earlier years, Ny'shak was predominantly an introvert, avoiding social interactions and seeking solitude. This changed gradually, thanks to the influence of Kai'sa and the companionship of the Eyes. While he still prefers the intimacy of close acquaintances over large social gatherings, he has learned to enjoy sharing the limelight with Kai'sa.
 
+On the battlefield, Ny'shak's demeanor transforms. He exhibits a cold and calculating mindset, analyzing the dynamics of battle with precision. His ability to identify threats and weaknesses showcases a tactical prowess that is both strategic and perceptive. Ny'shak's evolution from introversion to battlefield acumen adds depth to his character, portraying a multifaceted individual with a complex interplay of quiet contemplation and fierce determination.
+
+##### B)
 Ny'shak is a character defined by a nuanced and dynamic personality. His approach to conflict is marked by a calculated and thoughtful demeanor, showcasing a strategic mindset. In intense situations, a quick-tempered response emerges, particularly in defense of himself or allies.
 
 Guided by a logical compass, Ny'shak's moral decisions are rooted in a sense of duty, although emotional considerations may sway him in critical moments. Under stress, he exhibits a focused mindset, actively seeking resolutions and planning ahead. Known for his proactive nature, he intervenes against unfair treatment or bullying, demonstrating a commitment to justice.
