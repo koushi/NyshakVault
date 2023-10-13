@@ -90,7 +90,7 @@ _Ny'shak, the Silver Wyrm_, with his almost platinum silver scales and void-blac
 ##### A)
 Ny'shak is a reserved and contemplative individual, not particularly adept at social interactions, but his quiet exterior conceals a profound wisdom that belies his years. His loyalty is unwavering, especially towards Kai'sa, his soulmate, and his adoptive grandmother, Oloma. Despite his quiet demeanor, there's an underlying primal fury that, once ignited, is challenging to quell—reminiscent of a cornered beast fighting desperately for survival.
 
-In his earlier years, Ny'shak was predominantly an introvert, avoiding social interactions and seeking solitude. This changed gradually, thanks to the influence of Kai'sa and the companionship of the Eyes. While he still prefers the intimacy of close acquaintances over large social gatherings, he has learned to enjoy sharing the limelight with Kai'sa.
+In his earlier years, Ny'shak was predominantly an introvert, avoiding social interactions and seeking solitude. This changed gradually, thanks to the influence of Kai'sa and the companionship of the Eyes. While he still prefers the intimacy of close acquaintances over large social gatherings, he has learned to enjoy sharing the limelight from Kai'sa.
 
 On the battlefield, Ny'shak's demeanor transforms. He exhibits a cold and calculating mindset, analyzing the dynamics of battle with precision. His ability to identify threats and weaknesses showcases a tactical prowess that is both strategic and perceptive. Ny'shak's evolution from introversion to battlefield acumen adds depth to his character, portraying a multifaceted individual with a complex interplay of quiet contemplation and fierce determination.
 
