@@ -91,6 +91,16 @@ Ny'shak is a quiet, contemplative figure. While not known for his way with words
 
 On the battlefield Ny'shak displays a cold, calculating mind analyzing the ebb and flow of battle identifying threats and weaknesses.  
 
+Ny'shak is a character defined by a nuanced and dynamic personality. His approach to conflict is marked by a calculated and thoughtful demeanor, showcasing a strategic mindset. In intense situations, a quick-tempered response emerges, particularly in defense of himself or allies.
+
+Guided by a logical compass, Ny'shak's moral decisions are rooted in a sense of duty, although emotional considerations may sway him in critical moments. Under stress, he exhibits a focused mindset, actively seeking resolutions and planning ahead. Known for his proactive nature, he intervenes against unfair treatment or bullying, demonstrating a commitment to justice.
+
+Having undergone a transformation from introversion to outgoingness through adventuring, Ny'shak maintains confidence without veering into arrogance. However, social insecurity persists, revealing a multi-faceted personality. Quick to anger, he has become more cautious and suspicious due to past betrayals, leading to a tendency to hold grudges.
+
+Under the influence of substances, Ny'shak's inhibitions lower, bringing out a more extroverted side. Notably, when shown kindness, he responds with trust. In positions of power, Ny'shak aspires to be kind and generous, disapproving of any form of cruelty or oppression.
+
+This character's personality is a rich tapestry, reflecting a balance of strategic thinking, emotional depth, and a commitment to justice and kindness.
+
 ## Biography
 ### Background
 ### Campaign
