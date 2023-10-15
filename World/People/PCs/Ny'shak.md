@@ -75,13 +75,13 @@ cha: 8
 ## Description
 ### Appearance
 
-_Ny'shak_, the formidable half-dragon, stands tall at 7 feet, weighing 275 pounds, his lithe frame concealing latent strength. His defining feature is the platinum hue of his scales, capturing light with an ethereal glow, complemented by abyssal black outlines evoking an otherworldly quality.
+Ny'shak, the towering half-dragon, stands at an imposing 7 feet, his lithe form carefully concealing latent strength. His most striking feature lies in the ethereal glow of platinum scales, outlined in abyssal black, creating an otherworldly aura. Running along his tail are Godzilla-like spines, invoking an ancient power, while his back tells a silent tale of resilience through a series of jagged scars emanating a subtle shadowy aura.
 
-Running down his tail are Godzilla-like spines, invoking a sense of ancient power. Yet, the narrative unfolds on his back—a series of jagged scars, remnants of a cataclysmic event. These scars silently tell a tale of resilience, adding a profound layer to his mystique.
+The scars, remnants of a cataclysmic event, seem to come alive with a quiet yet profound darkness. They narrate a story of survival and triumph, casting an enigmatic air in the fantastical realm.
 
-In battle, _Ny'shak_ transforms with a mesmerizing display of precision and power, highlighting inherent agility. The scars on his back further enhance the dragon's aura of mystery and strength.
+Notably, his eyes are a bright lavender, their hue shifting mysteriously with tints of aquamarine and red. Set within a visage adorned with sharp protrusions and knife-like horns, his gaze pierces through the mundane, adding an alluring mystique. As Ny'shak moves, the kaleidoscopic eyes reflect the elemental forces coursing through him, challenging the traditional understanding of dragonkind.
 
-_Ny'shak, the Silver Wyrm_, with platinum scales and abyssal outlines, embodies draconic might—an enthralling presence in the fantasy realm, where legends come alive.
+In this fantastical world, Ny'shak is more than a creature of awe and mystique—he's a living legend, transcending the boundaries of imagination. His platinum scales, abyssal outlines, scars, and captivating eyes make him a symbol of boundless possibilities—a truly enthralling presence in the epic saga of this formidable half-dragon.
 
 ### Personality
 
@@ -99,7 +99,7 @@ This character's personality is akin to a rich tapestry, interwoven with strateg
 ### Background
 #### Birth?
 
-Ny'shak was born from pure darkness, an unholy union of the corrupting power of Shar and the indominable spirit of his Great Wyrm [[sire]].  
+Ny'shak was born from pure darkness, an unholy union of the corrupting power of Shar and the indominable spirit of his Great Wyrm [[sire]]. 
 
 ### Campaign
 ## Relationships
