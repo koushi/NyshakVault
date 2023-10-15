@@ -101,7 +101,9 @@ This character's personality is akin to a rich tapestry, interwoven with strateg
 
 Ny'shak was born from pure darkness, an unholy union of the corrupting power of Shar and the indominable spirit of his Great Wyrm [[Ix'aryz|sire]]. Ny'shak's earliest memories are nothing more than pitch black darkness, the sounds of something following him and the [[Birth|salvation]] of moonlight. 
 
-Ny'shak awoke in a clearing gleaming with the light of glowing blue flowers blossoming in the moonlight. With the words of Selune, "Protect her!", booming is his head his blurred vision clears as his eyes meet the aquamarine eyes of the young girl [[Kai'sa]]. From that moment a sacred bond was formed, as long as he lived he would protect her. Kai'sa [[Rebirth|nurses]] him back to health.
+Ny'shak awoke in a clearing gleaming with the light of glowing blue flowers blossoming in the moonlight. With the words of Selune, "Protect her!", booming is his head his blurred vision clears as his eyes meet the aquamarine eyes of the young girl [[Kai'sa]]. From that moment a sacred bond was formed, as long as he lived he would protect her. Kai'sa [[Rebirth|nurses]] him back to health. 
+
+One day as Kai'sa and Ny'shak are talking the girl is bullied by 3 youths. [[Tovius]], 
 
 ### Campaign
 ## Relationships
