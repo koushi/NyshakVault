@@ -75,15 +75,13 @@ cha: 8
 ## Description
 ### Appearance
 
-_Ny'shak_ is an awe-inspiring half-dragon, a creature that seizes attention with his imposing physical stature. Standing tall at a formidable 7 feet and weighing in at a robust 275 pounds, this enigmatic entity possesses a lithe and agile frame, concealing within him a reservoir of latent strength.
+_Ny'shak_, the formidable half-dragon, stands tall at 7 feet, weighing 275 pounds, his lithe frame concealing latent strength. His defining feature is the platinum hue of his scales, capturing light with an ethereal glow, complemented by abyssal black outlines evoking an otherworldly quality.
 
-The defining allure of _Ny'shak_ lies in the intricate pattern of his scales—almost platinum in color. This resplendent silver hue captures and refracts light with an ethereal luminosity that sets him apart. Yet, it is the void-black outlining these scales that holds an otherworldly quality, a deep, abyssal black drawing inspiration from the color of the void itself. 
+Running down his tail are Godzilla-like spines, invoking a sense of ancient power. Yet, the narrative unfolds on his back—a series of jagged scars, remnants of a cataclysmic event. These scars silently tell a tale of resilience, adding a profound layer to his mystique.
 
-Running down _Ny'shak_'s tail are Godzilla-like spines, evoking a sense of ancient power. However, a closer inspection reveals a narrative etched in his form—a series of large, jagged scars on his back, remnants of a singular, cataclysmic event. These weathered scars silently narrate a history of unyielding resilience and sacrifice, adding a profound layer to his mystique.
+In battle, _Ny'shak_ transforms with a mesmerizing display of precision and power, highlighting inherent agility. The scars on his back further enhance the dragon's aura of mystery and strength.
 
-In the throes of conflict, _Ny'shak_ undergoes a transformative display of physicality—a mesmerizing dance of precision and power. His movements, deliberate and controlled, highlight the inherent agility within his build. The scars on his back, remnants of a profound event, further contribute to the dragon's aura of mystery and indomitable strength.
-
-_Ny'shak, the Silver Wyrm_, with his almost platinum silver scales and void-black outlines, stands as a living embodiment of draconic might—a captivating entity in the realms of fantasy and myth. This comprehensive description invites readers into a world where legends come to life, encapsulating the essence of this mythical being.
+_Ny'shak, the Silver Wyrm_, with platinum scales and abyssal outlines, embodies draconic might—an enthralling presence in the fantasy realm, where legends come alive.
 
 ### Personality
 
