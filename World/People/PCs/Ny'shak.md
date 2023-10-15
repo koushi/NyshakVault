@@ -103,7 +103,7 @@ Ny'shak was born from pure darkness, an unholy union of the corrupting power of 
 
 Ny'shak awoke in a clearing gleaming with the light of glowing blue flowers blossoming in the moonlight. With the words of Selune, "Protect her!", booming is his head his blurred vision clears as his eyes meet the aquamarine eyes of the young girl [[Kai'sa]]. From that moment a sacred bond was formed, as long as he lived he would protect her. Kai'sa [[Rebirth|nurses]] him back to health. 
 
-One day as Kai'sa and Ny'shak are talking she is bullied by 3 youths,[[Tovius]], and his cousins. Ny'shak is [[Rebirth 2.2|beaten handily]] by the youths as he attempts to protect the girl.  Ny'shak when not spending time with Kai'sa finds himself exploring
+One day as Kai'sa and Ny'shak are talking she is bullied by 3 youths,[[Tovius]], and his cousins. Ny'shak is [[Rebirth 2.2|beaten handily]] by the youths as he attempts to protect the girl. Months go by without incident while Ny'shak spends his time learning about the [[Island|area]] around him. Ny'shak sees Kai'sa get knocked out with a vis
 
 ### Campaign
 ## Relationships
