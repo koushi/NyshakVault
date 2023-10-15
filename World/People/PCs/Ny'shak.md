@@ -101,6 +101,7 @@ This character's personality is akin to a rich tapestry, interwoven with strateg
 ### Background
 #### Birth?
 
+Ny'shak was born from pure darkness, an unholy union of the corrupting power of Shar and the indominable spirit of his Great Wyrm [[sire]].  
 
 ### Campaign
 ## Relationships
