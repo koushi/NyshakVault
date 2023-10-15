@@ -99,7 +99,9 @@ This character's personality is akin to a rich tapestry, interwoven with strateg
 ### Background
 #### Birth?
 
-Ny'shak was born from pure darkness, an unholy union of the corrupting power of Shar and the indominable spirit of his Great Wyrm [[Ix'aryz|sire]]. Ny'shak's earliest memories are nothing more charging forward in darkness for days 
+Ny'shak was born from pure darkness, an unholy union of the corrupting power of Shar and the indominable spirit of his Great Wyrm [[Ix'aryz|sire]]. Ny'shak's earliest memories are nothing more than pitch black darkness, the sounds of something following him and the [[Birth|salvation]] of moonlight. 
+
+Ny'shak awoke in a clearing gleaming with the light of glowing blue flowers blossoming in the moonlight. His blurred eyes meet those of an aquamarine color 
 
 ### Campaign
 ## Relationships
