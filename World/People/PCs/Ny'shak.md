@@ -99,6 +99,9 @@ This character's personality is akin to a rich tapestry, interwoven with strateg
 
 ## Biography
 ### Background
+#### Birth?
+
+
 ### Campaign
 ## Relationships
 
