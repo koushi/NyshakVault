@@ -1,15 +1,12 @@
-Name: Ix’aryzvaer
-Race: Silver Greatwyrm
+Name: Ix’aryz
+Race: Silver(Platinum?) Greatwyrm
 
-Ix’aryzvaer was a great ally to the goddess Selune in her conflict with Shar. 
+Ix’aryz was a great ally and lover to the goddess Selune. 
 
-Was captured and tortured by Shar for centuries.
+Was captured and tortured by Shar for centuries. 
 
-Shar used Ix’aryzvaer’s magical powers to corrupt creatures once loyal to the dragon. Her goal was to create an army to turn the tide in her fight against Selune. 
+Ix'aryz was the original guardian of the Brands, the remenents of the vast power Selune used to strike Shar causing devestating injuries to both and also spawning the birth of Mystra. 
 
-Sensing Shar was close to completing her goal Ix’aryzvaer secretly created a half-dragon spawn mixing the power of Shar with her own draconic power. 
-
-For many years Ix’aryzvaer was able to keep the half-dragon hidden from Shar, teaching the young half-dragon about Selune and her ideals. 
-
+Ix kept this power hidden in her hoard well beneath the Abbey of the Moon until its eventual destruction by corrupted agents of Shar. 
 
 
