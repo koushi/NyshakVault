@@ -105,6 +105,8 @@ Ny'shak awoke in a clearing gleaming with the light of glowing blue flowers blos
 
 One day as Kai'sa and Ny'shak are talking she is bullied by 3 youths,[[Tovius]], and his cousins. Ny'shak is [[Rebirth 2.2|beaten handily]] by the youths as he attempts to protect the girl. Months go by without incident while Ny'shak spends his time learning about the [[Island|area]] around him. Ny'shak sees Kai'sa get knocked out with a viscous kick from Tovius while watching her at school from the distance. Filled with [[The Silence|an insatiable fury]], Ny'shak stalks Tovius for days before ambushing him. Once the ambush was sprung Ny'shak unleashed a brutal mauling on Tovius nearly [[Rebirth 2.3|killing the boy]]. Kai'sa sensing something was wrong found the half-dragon and stopped him before it was too late. Kai'sa screams at him to leave eyes filled with terror. Ny'shak fled to the surrounding jungle returning the grove that evening hoping to find the girl again.  
 
+Later that evening the girl returned, but not alone. Accompanying her was an woman, 
+
 ### Campaign
 ## Relationships
 
