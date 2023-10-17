@@ -111,7 +111,9 @@ Later that evening the girl returned, but not alone. Accompanying her was [[Olom
 #### Adolescence ( 10 years old )
 After the incident with Tovius, Ny'shak was taken in by Kai'sa, Oloma and her family. Ny'shak was given work at the smith shop in town. [[The smith]] was kind but stern with Ny'shak in comparison to the rest of [[Needs better name|town]]. Ny'shak began to show his talent for learning quickly. Within a few months Ny'shak moved from menial tasks to helping with the smithing. Ny'shak's experiences in town found him shunned and discriminated against for his looks and inability to speak Netherese but mostly for his draconic looks.
 
-Life continued in this fashion until Kai'sa was accepted into [[the Order]]. When Ny'shak wasn't manning the forge, he was watching the training in the massive complex that made up most of the port city. The pattern of movements mesmerized him as acolytes ran through kata after kata. After school and far into the evening Kai'sa would describe the Order and her dreams to join the ranks of the Echoes. Only a few have ever reached the upper echelons, [[the Echoes of Fate]], from Kai'sa's village .   
+Life continued in this fashion until Kai'sa was accepted into [[the Order]]. When Ny'shak wasn't manning the forge, he was watching the training in the massive complex that made up most of the port city. The pattern of movements mesmerized him as acolytes ran through kata after kata. After school and far into the evening Kai'sa would describe the Order and her dreams to join the ranks few have ever reached in the upper echelons, [[the Echoes of Fate]]. Kai'sa would excitedly  show Ny'shak what she was learning even when she barely understood it herself.
+
+Kai'sa
 
 
 
