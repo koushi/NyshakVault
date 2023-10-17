@@ -120,7 +120,7 @@ Training, and formation of the eyes.
 
 Adventures with the Eyes for years. Hoping to become Echoes. 
 
-The Phaerim awaken drawn by the Netherese. 
+The Phaerim awaken drawn by the Netherese. The island is found due to drained magic by the arcanists, Karsus, Shade and the leader of the order cut a deal to stay hidden. The order began focusing more and more on the larger playing field. Pulling the strings of fate if you will. Corruption sinks in, the Order of Shadow begins to take on a darker 
 
 
 
