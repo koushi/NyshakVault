@@ -113,8 +113,7 @@ After the incident with Tovius, Ny'shak was taken in by Kai'sa, Oloma and her fa
 
 Life continued in this fashion until Kai'sa was accepted into [[the Order]]. When Ny'shak wasn't manning the forge, he was watching the training in the massive complex that made up most of the port city. The pattern of movements mesmerized him as acolytes ran through kata after kata. After school and far into the evening Kai'sa would describe the Order and her dreams to join the ranks few have ever reached in the upper echelons, [[the Echoes of Fate]]. Kai'sa would excitedly  show Ny'shak what she was learning even when she barely understood it herself.
 
-Kai'sa's passion and joy slowly faded as Torvius and the others relentlessly bully her. The oath sworn to protect the girl stirred deep within him as he 
-
+Kai'sa's passion and joy slowly faded as Torvius and the others relentlessly [[Kai'sa#bullying|bully her]]. The oath sworn to protect the girl roared deep within him. Shadows of his defeat at the hands of Torvius danced across the floor. Kai'sa finds herself struggling to keep up with the lessons due to the more magical nature of her village's teachings. Kai'sa is one of the few they call [[moontouched]]. 
 
 
 ### Campaign
