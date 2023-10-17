@@ -107,6 +107,8 @@ One day as Kai'sa and Ny'shak are talking she is bullied by 3 youths,[[Tovius]],
 
 Later that evening the girl returned, but not alone. Accompanying her was [[Oloma|an older woman]] her grandmother. She spent the evening explaining the beliefs of her [[village]] which center around Selune and the balance of light and dark. Ny'shak realizes the teachings of Oloma and Ix are very similar. Time passes as Ny'shak and Kai'sa become inseparable. When she is not at school studying martial arts with the other children, she was with Ny'shak roaming the island they call home. 
 
+After the incident with Tovius, Ny'shak was taken in by Kai'sa, Oloma and her family. Ny'shak was given work at the smith shop in town. [[The smith]] was kind but stern with Ny'shak. Ny'shak began to show his talent for learning quickly. Within a few months Ny'shak moved from cleaning the flues
+
 
 
 
