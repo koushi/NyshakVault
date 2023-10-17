@@ -103,11 +103,13 @@ Ny'shak was born from pure darkness, an unholy union of the corrupting power of 
 
 Ny'shak awoke in a clearing gleaming with the light of glowing blue flowers blossoming in the moonlight. With the words of Selune, "Protect her!", booming is his head his blurred vision clears as his eyes meet the aquamarine eyes of the young girl with feline features, [[Kai'sa]]. From that moment a sacred bond was formed, as long as he lived he would protect her. Kai'sa [[Rebirth|nurses]] him back to health. 
 
+#### Childhood
 One day as Kai'sa and Ny'shak are talking she is bullied by 3 youths,[[Tovius]], and his cousins. Ny'shak is [[Rebirth 2.2|beaten handily]] by the youths as he attempts to protect the girl. Months go by without incident while Ny'shak spends his time learning about the [[Island|area]] around him. Ny'shak sees Kai'sa get knocked out with a viscous kick from Tovius while watching her at school from the distance. Filled with [[The Silence|an insatiable fury]], Ny'shak stalks Tovius for days before ambushing him. Once the ambush was sprung Ny'shak unleashed a brutal mauling on Tovius nearly [[Rebirth 2.3|killing the boy]]. Kai'sa sensing something was wrong found the half-dragon and stopped him before it was too late. Kai'sa screams at him to leave eyes filled with terror. Ny'shak fled to the surrounding jungle returning the grove that evening hoping to find the girl again.  
 
 Later that evening the girl returned, but not alone. Accompanying her was [[Oloma|an older woman]] her grandmother. She spent the evening explaining the beliefs of her [[village]] which center around Selune and the balance of light and dark. Ny'shak realizes the teachings of Oloma and Ix are very similar. Time passes as Ny'shak and Kai'sa become inseparable. When she is not at school studying martial arts with the other children, she was with Ny'shak roaming the island they call home. 
 
-After the incident with Tovius, Ny'shak was taken in by Kai'sa, Oloma and her family. Ny'shak was given work at the smith shop in town. [[The smith]] was kind but stern with Ny'shak in comparison to the rest of [[Needs better name|town]]. Ny'shak began to show his talent for learning quickly. Within a few months Ny'shak moved from menial tasks to helping with the smithing. Ny'shak often found himself shunned and discriminated against due to his in ability to speak Netherese but mostly his looks. 
+#### Adolescence ( 10 years old )
+After the incident with Tovius, Ny'shak was taken in by Kai'sa, Oloma and her family. Ny'shak was given work at the smith shop in town. [[The smith]] was kind but stern with Ny'shak in comparison to the rest of [[Needs better name|town]]. Ny'shak began to show his talent for learning quickly. Within a few months Ny'shak moved from menial tasks to helping with the smithing. Ny'shak's experiences in town found him shunned and discriminated against for his looks and inability to speak Netherese but mostly for his draconic looks.
 
 
 
