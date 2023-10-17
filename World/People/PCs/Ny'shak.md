@@ -111,7 +111,7 @@ Later that evening the girl returned, but not alone. Accompanying her was [[Olom
 #### Adolescence ( 10 years old )
 After the incident with Tovius, Ny'shak was taken in by Kai'sa, Oloma and her family. Ny'shak was given work at the smith shop in town. [[The smith]] was kind but stern with Ny'shak in comparison to the rest of [[Needs better name|town]]. Ny'shak began to show his talent for learning quickly. Within a few months Ny'shak moved from menial tasks to helping with the smithing. Ny'shak's experiences in town found him shunned and discriminated against for his looks and inability to speak Netherese but mostly for his draconic looks.
 
-
+For the next few years worked hard at the smith's while spending every free moment watching the Order acolytes train. The 
 
 
 
