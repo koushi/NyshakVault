@@ -140,7 +140,7 @@ With great sadness Selune decides the Order cannot go on in its current form and
 
 Ny'shak The Eyes leave Opus heading out to gather information, allies and supplies for whatever they were walking into. 
 
-Kai'sa is captured an taken to the top of the Monastery to be judged by Ix, who 
+Kai'sa is captured and imprisoned in the Monastery. Ny'shak and his allies assault the Monastery to free Kai'sa. They are able to breach the gate and take the courtyard but fighting grinds to a standstill. Members of the order still loyal to Selune are confused as to what is happening. 
 
 
 
