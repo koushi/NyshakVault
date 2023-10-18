@@ -123,8 +123,8 @@ Training, and formation of the Eyes.
 
 Adventures with the Eyes for years. Hoping to become Echoes. 
 
-The Phaerim awaken drawn by the Netherese. The island is found due to drained magic by the arcanists, Karsus, Shade and the leader of the order cut a deal to stay hidden. The order began focusing more and more on the larger playing field. Pulling the strings of fate if you will. Corruption sinks in, the Order of Shadow begins to take on a darker demeanor. 
-
+The Phaerim awaken drawn by the Netherese. The island is found due to drained magic by the arcanists, Karsus, Shade and the leader of the order cut a deal to stay hidden. The order begins to fragment missions undertaken by the Order of Shadow become less about balance. Corruption sinks in, the Order of Shadow begins to take on a darker demeanor but not entirely. A strange tension hangs above both  
+ 
 
 The dance, and the connection. Ny'shak and Kai'sa fully manifest the Brands.
 
@@ -132,7 +132,7 @@ Ny'shak and Kai'sa join the Echoes along with other members of the Eyes.
 
 hundreds of years pass ( go magic doping ) as The Echoes begin 
 
-Ny'shak sent to kill Kai'sa but doesn't go through with it. Goes on the run with Kai'sa for years gathering allies to stop the Order. Reconnects with the Eyes. Base of operations moves to Opus one of the floating cities of Netheril. It becomes clear that the order has been compromised but to what extent is unknown. A civil war breaks out within the Order as both sides try to gather allies. The truth of Ny'shak's origin and the Brands is revealed to the Eyes by Oloma. 
+Ny'shak sent to [[Betrayal|kill Kai'sa]] but doesn't go through with it. Goes on the run with Kai'sa for years gathering allies to stop the Order. Reconnects with the Eyes. Base of operations moves to Opus one of the floating cities of Netheril. It becomes clear that the order has been compromised but to what extent is unknown. A civil war breaks out within the Order as both sides try to gather allies. The truth of Ny'shak's origin and the Brands is revealed to the Eyes by Oloma. 
 
 
 
