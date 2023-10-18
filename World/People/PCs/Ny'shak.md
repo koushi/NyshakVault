@@ -140,7 +140,8 @@ With great sadness Selune decides the Order cannot go on in its current form and
 
 Ny'shak The Eyes leave Opus heading out to gather information, allies and supplies for whatever they were walking into. 
 
-Kai'sa is captured and imprisoned in the Monastery. Ny'shak and his allies assault the Monastery to free Kai'sa. They are able to breach the gate and take the courtyard but fighting grinds to a standstill. Members of the order still loyal to Selune are confused as to what is happening. 
+Kai'sa is captured and imprisoned in the Monastery. Ny'shak and his allies assault the Monastery to free Kai'sa. They are able to breach the gate and take the courtyard but fighting grinds to a standstill. Members of the order still loyal to Selune are confused as to what is happening and why Ny'shak returned. They all believe he turned on Kai'sa like he did Torvius in his youth. Kai'sa and Ny'shak declare a challenge for [[Puppet leader|Ix]] for control of the Order. Ny'shak and Kai'sa approach the massive gate inside a dragon's skull. Summoning their Brands they unlock the portal and step into [[the prison]]. 
+
 
 
 
