@@ -17,6 +17,6 @@ Shar plants the idea of the Echoes and teaches Ix'aryz through visions how to co
 
 Ix begins to bring people devout to Selune to the island. Over hundreds the island becomes a massive compound for an order dedicated to the ideals of Selune and maintaining the balance of light and dark in the world. The population of the island grows and develops into port town with a massive complex for training an army. 
 
-Shar's corruption finally takes root as she is able to persuade Ix'aryz to begin creating Echoes. 12 Echoes are made using the magic of the brnads
+ 
 
 
