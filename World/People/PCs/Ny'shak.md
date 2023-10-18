@@ -119,6 +119,9 @@ Kai'sa's passion and joy slowly faded as Torvius and the others relentlessly [[K
 
 For the next 2 years, Ny'shak trains with the Order quickly mastering the katas, forms and movements drawing the ire of Tovius and his cohorts. The other acolytes begin to warm up to Ny'shak as he spends time helping them with their training but he soon found himself to be the one struggling. Training shifted from the academy to the mountain paths inside [[the Monastery]]. The acolytes spent months honing their spiritual and physical minds with task pushing their bodies to the limits and beyond by focusing their ki. Ny'shak pushes through the training only managing to pass some of the task through brute force alone. 
 
+
+##### Details still in progress
+
 Training, and formation of the Eyes. 
 
 Adventures with the Eyes for years. Hoping to become Echoes. 
@@ -131,7 +134,11 @@ Ny'shak and Kai'sa join the Echoes along with other members of the Eyes.
 
 hundreds of years pass ( go magic doping ) as The Echoes begin 
 
-Ny'shak sent to [[Betrayal|kill Kai'sa]] but doesn't go through with it. Goes on the run with Kai'sa for years gathering allies to stop the Order. Reconnects with the Eyes. Base of operations moves to Opus one of the floating cities of Netheril. It becomes clear that the order has been compromised but to what extent is unknown. A civil war breaks out within the Order as both sides try to gather allies. The truth of Ny'shak's origin and the Brands is revealed to the Eyes by Oloma. 
+Ny'shak sent to [[Betrayal|kill Kai'sa]] but doesn't go through with it. Goes on the run with Kai'sa for years gathering allies to stop the Order. Reconnects with the Eyes. Base of operations moves to Opus one of the floating cities of Netheril. It becomes clear that the order has been compromised but to what extent is unknown. A civil war breaks out within the Order as both sides try to gather allies. The truth of Ny'shak's origin and the Brands is revealed to the Eyes by Oloma who is revealed to be Selune to the others. 
+
+Selune decides the Order cannot go on in its current form and tasks the Eyes and any allies they can gather to stop them. She speaks about the 
+
+
 
 
 
