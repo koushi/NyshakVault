@@ -140,7 +140,7 @@ With great sadness Selune decides the Order cannot go on in its current form and
 
 Ny'shak The Eyes leave Opus heading out to gather information, allies and supplies for whatever they were walking into. 
 
-
+Kai'sa is captured an taken to the top of the Monastery to be judged by Ix, who 
 
 
 
