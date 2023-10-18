@@ -126,7 +126,7 @@ Training, and formation of the Eyes.
 
 Adventures with the Eyes for years. Hoping to become Echoes. 
 
-The Phaerim awaken drawn by the Netherese. The island is found due to drained magic by the arcanists, Karsus, Shade and the leader of the order cut a deal to stay hidden. The order begins to fragment missions undertaken by the Order of Shadow become less about balance. 
+The Phaerim awaken ( -461 DR ) drawn by the Netherese. The island is found due to drained magic by the arcanists, Karsus, Shade and the leader of the order cut a deal to stay hidden. The order begins to fragment missions undertaken by the Order of Shadow become less about balance. 
  
 The dance, and the connection. Ny'shak and Kai'sa fully manifest the Brands.
 
