@@ -134,9 +134,9 @@ Ny'shak and Kai'sa join the Echoes along with other members of the Eyes.
 
 hundreds of years pass ( go magic doping ) as The Echoes begin 
 
-Ny'shak sent to [[Betrayal|kill Kai'sa]] but doesn't go through with it. Goes on the run with Kai'sa for years gathering allies to stop the Order. Reconnects with the Eyes. Base of operations moves to Opus one of the floating cities of Netheril. It becomes clear that the order has been compromised but to what extent is unknown. A civil war breaks out within the Order as both sides try to gather allies. The truth of Ny'shak's origin and the Brands is revealed to the Eyes by Oloma who is revealed to be Selune to the others. 
+Ny'shak sent to [[Betrayal|kill Kai'sa]] but doesn't go through with it. Goes on the run with Kai'sa for years gathering allies to stop the Order. Reconnects with the Eyes. Base of operations moves to Opus one of the floating cities of Netheril. It becomes clear that the order has been compromised but to what extent is unknown. A civil war breaks out within the Order as both sides try to gather allies. The truth of [[The Monster|Ny'shak's origin]] and the Brands is revealed to the Eyes by Oloma who is revealed to be Selune to the others. 
 
-Selune decides the Order cannot go on in its current form and tasks the Eyes and any allies they can gather to stop them. 
+With great sadness Selune decides the Order cannot go on in its current form and tasks the Eyes and any allies they can gather to stop them. Ny'shak and Kai'sa approach Oloma worried for their grandmother. Oloma tells them for the first time she is unable to see what will happen. 
 
 
 
