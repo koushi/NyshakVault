@@ -88,6 +88,4 @@ _%>
 ## Relationships
 
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
-
 
