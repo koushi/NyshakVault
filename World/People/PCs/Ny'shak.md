@@ -161,6 +161,4 @@ Karsus begins casting Karsus's avatar stealing Mystryl's power.
 ## Relationships
 
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
-
 
