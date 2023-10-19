@@ -53,20 +53,21 @@ _%>
 >> [!abstract|c-red ]- Contents
 >> 1. [[#Description]]
 >> 2. [[#Map]]
->> 	- [[#Background]]
->> 	- [[#Campaign]]
+>> 3. [[#History]]
+>> 4. [[#Society]]
 >
 >> [!note|clean no-title] Column 2 
 
 
 
 ## Description
-### Appearance
-### Personality
-## Biography
+## Map
 ### Background
 ### Campaign
-## Relationships
+## History
+## Society
+### Demographics
+### Notable People
 
 
 
