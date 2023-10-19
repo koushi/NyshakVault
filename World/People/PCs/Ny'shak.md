@@ -150,7 +150,7 @@ The battle continues between Tovius and Ny'shak. Through speed and precision Ny'
 
 Ny'shak wakes up descends the mountain with the body of Ix through the portal. He throws the corpse down roaring. Fighting rages all around him as the those of the Order still alive attempt to protect the Monastery. The fight quickly degrades from combat to survival. The Sharn and phaerim trade spells leaving cataclysmic results in their wake. The once majestic mountain peak reduced to gravel, a lust jungle withered to dust in the blink of an eye. The battle is won, and the cost is great. The Order is decimated left without direction. 
 
-Ny'shak is looked to for leadership but he refuses that mantle. Still barely recovered from the fight he interrogates survivors where to find Opus. With his connection to Kai'sa acting as a compass, he wanders out into the newly formed desert searching for his 
+Ny'shak is looked to for leadership but he refuses that mantle. Still barely recovered from the fight he interrogates survivors where to find Opus. With his connection to Kai'sa acting as a compass, he wanders out into the newly formed desert searching for his destination. Ny'shak comes across the Storm Giant allies whose ancestors helped hide the island Monastery and [[The Shattered Tower|their floating castle]]. Ny'shak begs for passage to Opus or at least one of the other archwizards enclaves. 
 
 
 
