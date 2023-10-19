@@ -33,7 +33,7 @@ if (!hasTitle) {
 _%>
 
 <% tp.file.title %>
-<% await tp.file.move("/World/People/PCs/" + tp.file.title) %>
+<% await tp.file.move("/World/Places/" + tp.file.title) %>
 
 > [!infobox]
 > # `=this.file.name`
