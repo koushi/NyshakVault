@@ -117,7 +117,7 @@ Kai'sa's passion and joy slowly faded as Torvius and the others relentlessly [[K
 
 [[Event rumble in the jungle|Sadir meets Ny'shak]] and Kai'sa late in the evening. He instructs Ny'shak to attack him who hesitates to move but is encouraged by Kai'sa. Sadir easily counters everything Ny'shak throws at him and insults Kai'sa calling Ny'shak nothing more than a savage beast. Ny'shak stands up eyes changing to a reddish purple color feeling the fury once again building inside. They spar back and forth with Ny'shak copying techniques used against him getting closer and closer to connecting on Sadir. With each wave the fury grows inside Ny'shak while his eyes shift deeper and deeper towards crimson. A faint black aura begins emanating from Ny'shak. Sadir notices the aura and realizes Ny'shak won't stop coming. Before Ny'shak can launch another attack Sadir stuns Ny'shak in place agreeing to accept him into the academy but warns him it won't be easy since no one will be there to interpret for him. Ny'shak asks Sadir when do they start in heavily accented Netherese shocking both Kai'sa and her uncle before collapsing in exhaustion.
 
-For the next 2 years, Ny'shak trains with the Order quickly mastering the katas, forms and movements drawing the ire of Tovius and his cohorts. The other acolytes begin to warm up to Ny'shak as he spends time helping them with their training but he soon found himself to be the one struggling. Training shifted from the academy to the mountain paths inside [[the Monastery]]. The acolytes spent months honing their spiritual and physical minds with task pushing their bodies to the limits and beyond by focusing their ki. Ny'shak pushes through the training only managing to pass some of the task through brute force alone. 
+For the next 2 years, Ny'shak trains with the Order quickly mastering the katas, forms and movements drawing the ire of Tovius and his cohorts. But he soon found himself to be the one struggling. Training shifted from the academy to the mountain paths inside [[the Monastery]]. The acolytes spent months honing their spiritual and physical minds with task pushing their bodies to the limits and beyond by focusing their ki. Ny'shak pushes through the training only managing to pass some of the task through brute force alone. 
 
 
 ##### Details still in progress
@@ -144,7 +144,7 @@ Kai'sa is captured and imprisoned in the Monastery. Ny'shak and his allies assau
 
 Ny'shak and Kai'sa fight and flee their way to the exit through a nightmarish world of [[The Council|fallen allies]] imprisoned inside. They emerge from the prison onto a plateau where the Brands are located. Hovering far above are two of the floating enclaves one of Karsus, defacto leader of the Netherese, and his ally Lord Shadow, now minion of Shar. The Eyes arrive shortly after. Knowing they don't have much time they prepare to teleport back to Opus while Ny'shak and Kai'sa deal with the Brands. More to come....
 
-As the teleport circle is completing, Ny'shak p
+As the teleport circle is completing, Ny'shak pushes Kai'sa towards the circle
 
 
 
