@@ -10,9 +10,6 @@ age:
 languages: 
 factions: 
 ---
-Karsus
-
-
 > [!infobox]
 > # `=this.file.name`
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]

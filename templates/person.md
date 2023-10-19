@@ -32,7 +32,6 @@ if (!hasTitle) {
 }
 _%>
 
-<% tp.file.title %>
 <% await tp.file.move("/World/People/PCs/" + tp.file.title) %>
 
 > [!infobox]

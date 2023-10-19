@@ -21,7 +21,6 @@ if (!hasTitle) {
 }
 _%>
 
-<% tp.file.title %>
 <% await tp.file.move("/World/Places/" + tp.file.title) %>
 
 > [!infobox]

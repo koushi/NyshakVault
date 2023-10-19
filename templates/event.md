@@ -15,7 +15,6 @@ if (!hasTitle) {
 }
 _%>
 
-<% tp.file.title %>
 <% await tp.file.move("/World/Events/" + tp.file.title) %>
 
 

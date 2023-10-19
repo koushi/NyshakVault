@@ -88,11 +88,11 @@
       "id": "2f3fbbaa-f3e6-4c3d-ab16-d31bc46660c4",
       "name": "Event",
       "type": "Template",
-      "command": false,
-      "templatePath": "",
+      "command": true,
+      "templatePath": "templates/event.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{value}}"
       },
       "folder": {
         "enabled": false,
