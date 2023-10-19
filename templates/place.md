@@ -31,10 +31,10 @@ _%>
 > ###### Basic Information
 >  |  |
 > ---|---|
-> Sex | `=this.sex` |
-> Race | `=this.race` |
-> Age | `=this.age` |
-> Languages | `=this.languages` |
+> Name | `=this.name` |
+> Nickname | `=this.nickname` |
+> Built | `=this.builtdate` |
+> Leader | `=this.leader` |
 > Home | `=this.location` |
 > Group | `=this.factions` |
 > ###### Rules Info
