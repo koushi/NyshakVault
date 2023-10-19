@@ -28,39 +28,31 @@ _%>
 > # `=this.file.name`
 > ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
-> ###### Basic Information
+> ###### General Information
 >  |  |
 > ---|---|
 > Name | `=this.name` |
 > Nickname | `=this.nickname` |
 > Built | `=this.builtdate` |
 > Leader | `=this.leader` |
-> Home | `=this.location` |
-> Group | `=this.factions` |
-> ###### Rules Info
+> ###### Location Information
 >  |   |
 > ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
-> Sub Class | `=this.subclass` |
-> ###### Stats
->  | | |
-> ---|---|---|
-> HP | AC | DC |
-> `=this.HP` | `=this.AC` | `=this.DC` |
-> Str | Dex | Con |
-> `=this.str` | `=this.dex` | `=this.con` |
-> Int | Wis | Cha |
-> `=this.int` | `=this.wis` | `=this.cha`|
+> Plane | `=this.plane` |
+> Region | `=this.region` |
+> Districts | `=this.districts` |
+> ###### Societial Information
+>  |   |
+> ---|---|
+> Population | `=this.plane` |
+> Affiliation | `=this.affiliation` |
 
 # `=this.file.name`
 `=this.name` is a `=this.sex` `=this.race` `=this.subclass` `=this.class`. 
 > [!column|clean no-title] 
 >> [!abstract|c-red ]- Contents
 >> 1. [[#Description]]
->> 	- [[#Appearance]]
->> 	- [[#Personality]]
->> 2. [[#Biography]]
+>> 2. [[#Map]]
 >> 	- [[#Background]]
 >> 	- [[#Campaign]]
 >
