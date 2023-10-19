@@ -148,7 +148,7 @@ As the teleport circle is completing, Ny'shak pushes Kai'sa towards the circle o
 
 The battle continues between Torvius and Ny'shak. Through speed and precision Ny'shak controls the battle field leaving little to exploit by their numbers. The fight is cut short when a group of phaerim drawn by the two massive enclaves hovering above attack the Monastery. Karsus calls for Torvius to stop holding Ny'shak in place magically. Torvius refuses pressing [[Torvius's deal|the promise]] made for leading them here. Karsus reminds Torvius they aren't here for revenge but to save Netheril. He looks at Ny'shak stating Ny'shak has something he needs. Without hesitation Karsus waves his hands speaks the incantation as the Greatwyrm spines are [[lost spines|ripped]] from Ny'shaks body. Karsus, and Lord Shadow turn to leave. Torvius hesitates to leave looking toward the dying half-dragon. Torvius makes sure Ny'shak lives telling the dragon their fight isn't finished. Then follows Lord Shadow back to his enclave. 
 
-Ny'shak wakes up descends the mountain with the body of Ix through the portal. He throws the corpse down roaring. Raging all around him is a fight against the monsterous phaerim. 
+Ny'shak wakes up descends the mountain with the body of Ix through the portal. He throws the corpse down roaring. Fighting rages all around him as the those of the Order still alive attempt to protect the Monastery. 
 
 
 
