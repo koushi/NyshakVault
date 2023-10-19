@@ -144,7 +144,7 @@ Kai'sa is captured and imprisoned in the Monastery. Ny'shak and his allies assau
 
 Ny'shak and Kai'sa fight and flee their way to the exit through a nightmarish world of [[The Council|fallen allies]] imprisoned inside. They emerge from the prison onto a plateau where the Brands are located. Hovering far above are two of the floating enclaves one of Karsus, defacto leader of the Netherese, and his ally Lord Shadow, now minion of Shar. The Eyes arrive shortly after. Knowing they don't have much time they prepare to teleport back to Opus while Ny'shak and Kai'sa deal with the Brands. More to come....
 
-As the teleport circle is completing, Ny'shak pushes Kai'sa towards the circle
+As the teleport circle is completing, Ny'shak pushes Kai'sa towards the circle out of sight and turns around.  
 
 
 
