@@ -23,7 +23,10 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "templates/person.md",
-    "templates/npc.md"
+    "templates/npc.md",
+    "templates/event.md",
+    "templates/place.md",
+    "templates/entity.md"
   ],
   "startup_templates": [
     ""
