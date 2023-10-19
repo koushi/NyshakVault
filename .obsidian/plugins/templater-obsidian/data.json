@@ -17,6 +17,22 @@
     {
       "folder": "World/People",
       "template": "templates/person.md"
+    },
+    {
+      "folder": "World/Events",
+      "template": "templates/event.md"
+    },
+    {
+      "folder": "World/People/NPCs",
+      "template": "templates/npc.md"
+    },
+    {
+      "folder": "World/People/Entities",
+      "template": "templates/entity.md"
+    },
+    {
+      "folder": "World/Places",
+      "template": "templates/place.md"
     }
   ],
   "syntax_highlighting": true,

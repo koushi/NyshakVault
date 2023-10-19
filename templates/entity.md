@@ -21,7 +21,7 @@ if (!hasTitle) {
 }
 _%>
 
-<% await tp.file.move("/World/People/NPCs/" + tp.file.title) %>
+<% await tp.file.move("/World/People/Entities/" + tp.file.title) %>
 
 > [!infobox]
 > # `=this.file.name`
