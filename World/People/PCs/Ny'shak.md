@@ -156,10 +156,9 @@ Ny'shak is looked to for leadership but he refuses that mantle. Still barely rec
 
 Ny'shak boards the palace as they head southeast towards. He spends his days tracking enclaves on the horizon hoping to find Opus. With each passing day the unease grows, Ny'shak begins to hear [[The Monster|a faint voice]] in his head. It rambles on and on about Shar and the archwizards trying to kill them.  Ny'shak initially tries to shake it off and ignore it thinking it isn't real but the voice continues this time addressing Ny'shak by name. The voice pleads to Ny'shak to set it free promising vengeance against those that harmed him. The mention of vengeance triggers flashbacks of the past few days and the insatiable fury begins to rise in Ny'shak. The voice laughs a little louder mocking Ny'shak for never putting it together. The monster reveals visions of its [[Ix's sacrafice|creation]] at the hands of Ix'aryz and Shar, the betrayal and imprisonment. 
 
-
-
-
 ### Campaign
+
+
 ## Relationships
 
 
