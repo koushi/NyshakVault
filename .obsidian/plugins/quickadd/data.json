@@ -119,8 +119,8 @@
       "command": true,
       "templatePath": "templates/session.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": "{{value}}"
+        "enabled": true,
+        "format": "{{date}}"
       },
       "folder": {
         "enabled": false,
