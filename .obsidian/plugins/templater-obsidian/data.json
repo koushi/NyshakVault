@@ -33,6 +33,10 @@
     {
       "folder": "World/Places",
       "template": "templates/place.md"
+    },
+    {
+      "folder": "World/Sessions",
+      "template": "templates/session.md"
     }
   ],
   "syntax_highlighting": true,
@@ -42,7 +46,8 @@
     "templates/npc.md",
     "templates/event.md",
     "templates/place.md",
-    "templates/entity.md"
+    "templates/entity.md",
+    "templates/session.md"
   ],
   "startup_templates": [
     ""
