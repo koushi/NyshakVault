@@ -1,4 +1,4 @@
 # Niko
 
 
-Essentially I want to fight with a one handed lance like mounted combat using the steel defender as a mount. But because it is acting as my mecha armor it would essentially be taking the hits for me. That would be a little too OP. 
+Essentially I want to fight with a one handed lance like mounted combat using the steel defender as a mount. Leveraging this Niko uses a lance as his melee weapon with a shield, but sometimes an arm canon.  Leaning in on the gravity t
