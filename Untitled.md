@@ -1,4 +1,4 @@
 # Niko
 
 
-Combat style: 
+Things I want for my armor:
