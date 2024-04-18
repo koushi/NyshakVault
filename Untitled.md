@@ -1,4 +1,5 @@
 # Niko
 
+Thematic:
 
-Essentially I want to fight with a one handed lance like mounted combat using the steel defender as a mount. Leveraging this Niko uses a lance as his melee weapon with a shield, but sometimes an arm canon.  Leaning in on the gravity t
+Niko is a medium ranged fighter using a one handed Lance and shield when in defensive mode. In offensive mode the shield retracts and becomes an arm cannon. His lance is helix shaped spilting 
