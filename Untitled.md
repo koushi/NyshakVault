@@ -14,5 +14,11 @@ Ideas for Steel Defender armor:
 1) HP of SD stays the same but gives a mirror image like shield. Roll a d20 when hit to see which target it hits. 
 2) SD applies half its HP in temp HP. Niko gains a bonus action ability to spend 1d4 HP to activate the repair ability only when suit is inoperable. 
 
+Magic items:
+Breastplate of Weightlessness - Uncommon
+Source: The Book of Many Things
+_Armor (light, medium, or heavy), uncommon (requires attunement)_
 
+This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: [Jump](http://dnd5e.wikidot.com/spell:jump) (1 charge) or [Levitate](http://dnd5e.wikidot.com/spell:levitate) (2 charges).
+This armor regains 1d4 + 1 expended charges daily at dawn.
 
