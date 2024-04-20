@@ -11,5 +11,8 @@ hand crossbow for arm cannon - ( 1d6  *60*/120) tweak the range a little - I wil
 Gravity well is a reskinned Thorn whip that lets me move enemies 10ft which would replace the Steel defender's Force Rend ability. 
 
 Ideas for Steel Defender armor:
-HP of SD stays the same but gives a 
+1) HP of SD stays the same but gives a mirror image like shield. Roll a d20 when hit to see which target it hits. 
+2) SD applies half its HP in temp HP. Niko gains a bonus action ability to spend 1d4 HP to activate the repair ability only when suit is inoperable. 
+
+
 
