@@ -130,6 +130,9 @@ And so, as he tended to his duties in the butcher shop, Skarok dreamed of the da
 
 
 ### Campaign
+
+So the Unifying of Jirak and the following call to expanse and expedition into the wider Astra Sea surrounding Verdanth is fantastic. Their meeting with the Astral Path and the cooperation done there will work perfect. In these days, the Astral Path was a small coalition of sentients of elevated technology, i.e. Jammers. and the ability to traverse the cerebral expanse that is the Astral Sea. They brought secrets and spices, knowledge and devices to enrich the already burgeoning civilizations of Verdanth. They even offered to guide the Verdanthese peoples into the muddy mental map of the Astral Sea. And they did. Working together the optimistic paring of the Astral Path and the Verdanthese allowed and encouraged an exodus of the Verdanthese into the Astral Sea. Skarok was among one of these exoduses. Being chosen from Jirak's faithful, Itl, Clan leader of the Stonewood's top Clans, personally invited Skarok on an expodition to a planet called 'Toril' which was known to be famous for it's varied foodstuffs and rich cultures. And Skarok knew that culture meant food, and often unique foods. His wanderlust aided in his decision, effectively cutting out any second thoughts. Not even to mention the incredible creatures that could be hunted there. Itl knew of Skarok's love for exploration and shared the urge to hunt. But time had rent their lives apart. Skarok was ostrasized and Itl was thrust into the Upper Echelons of his caste. So Skarok was surprised when he received such an invitation, signed by an old friend he'd thought had long forgotten him.
+
 ## Relationships
 
 
