@@ -28,5 +28,8 @@ Key moment for Ny'shak. He is sent on mission to assassinate a high value target
 
 ### Background
 
+Political unrest between the Upper Netherese pushes enclaves to engage in outright war with each other, dragging allied Lower enclaves into the conflict. 
+Due to the corruption of the Order at the hands of Shar, the Order has taken a more active role acting more as an army for hire. 
+This has often pitted the two sides of the order against each other. 
 
 
