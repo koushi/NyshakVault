@@ -1,8 +1,8 @@
 ---
-type:
-name:
-location: 
-year:
+type: Event
+name: Betrayal
+location: Somewhere in Lower Netheril
+year: -345DR
 ---
 
 
