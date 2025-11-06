@@ -1,0 +1,3 @@
+Gilmore notes
+
+Greetings fairies, I hope you are enjoying your festivities. Happy birthday..... oh wait why can't I see them. ( Look off camera ) Good sir, I thought you said we would be able to communicate with them. How do you expect me to communicate if I can't see them? Can you hear me fairies? ( Wait a few seconds then louder with camera taps ) Oh great...well I hope you can hear this. Fairies, congratulations on a job well done.....if you were actively trying to help your enemies. I can't believe it, I really can't. Tell me ladies, 
