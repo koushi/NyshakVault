@@ -160,4 +160,23 @@ Ny'shak boards the palace as they head southeast towards. He spends his days tra
 ## Relationships
 
 
+### Relatable song lyrics
+
+1x1 - BMTH
+> Disconnected from the world again  
+> And no, the Sun don't shine in the place I've been  
+> So, why you keep acting like I don't exist?  
+> Yeah, feel like I'm ready to die, but I can't commit
+>
+> So I ask myself, "When will I learn?"  
+> I'd set myself on fire to feel the burn  
+> I'm scared that I'm never gonna be repaired
+>
+> Put me outta my misery  
+> My mind feels like an archenemy  
+> Can't look me in the eyes
+> 
+> I don't know what hurts the most— holding on or letting go  
+> Reliving my memories  
+> And they're killing me one by one
 
