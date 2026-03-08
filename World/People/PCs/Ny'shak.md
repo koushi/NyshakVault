@@ -180,3 +180,12 @@ Ny'shak boards the palace as they head southeast towards. He spends his days tra
 > Reliving my memories  
 > And they're killing me one by one
 
+Parasite Eve - BMTH
+> You can board up your windows, you can lock up your doors, yeah  
+> But you can't keep washing your hands of this shit anymore  
+> When all the king's sources and all the king's friends  
+> Don't know their arses from their pathogens  
+> When life is a prison and death is the door  
+> This ain't a warning, this is a  
+> War, war! This is a war!
+
